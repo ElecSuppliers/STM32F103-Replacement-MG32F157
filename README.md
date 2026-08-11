@@ -1,2 +1,5 @@
-# STM32F103-Replacement-MG32F157
-STM32F103 replacement MCU evaluation based on MG32F157 ARM Cortex-M3 microcontroller.
+# STM32F103 Replacement with MG32F157 MCU
+
+MG32F157 is an ARM Cortex-M3 microcontroller designed as an alternative option for STM32F103-based embedded applications.
+
+This repository provides technical information, comparison notes, migration considerations, and example resources for engineers evaluating MG32F157 as an STM32F103 replacement MCU.
